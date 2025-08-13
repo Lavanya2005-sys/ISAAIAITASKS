@@ -235,16 +235,4 @@ npm run build
 **Assessment Date**: August 2025  
 **Completion Status**: All three tasks implemented
 
-## 📞 Support
-
-For questions or technical support regarding this assessment:
-- **Email**: hr@isaii.in
-- **Company**: Isaii AI Technologies
-
-## 📄 License
-
-This project is created for technical assessment purposes for Isaii AI Technologies.
-
----
-
 *Built with ❤️ using React, TypeScript, and modern web technologies*

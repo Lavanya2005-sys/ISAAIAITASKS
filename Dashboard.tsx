@@ -114,11 +114,12 @@ const Dashboard: React.FC<DashboardProps> = ({ onTaskSelect }) => {
 
       {/* Company Info Footer */}
       <div className="text-center text-gray-600 text-sm">
-        <p>Assessment for <span className="font-semibold">Isaii AI Technologies</span></p>
+
         <p>Candidate: GURRAMPATI LAVANYA</p>
       </div>
     </div>
   );
 };
+
 
 export default Dashboard;

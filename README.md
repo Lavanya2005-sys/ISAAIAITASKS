@@ -231,8 +231,7 @@ npm run build
 ## 👨‍💻 Developer Information
 
 **Candidate**: GURRAMPATI LAVANYA  
-**Company**: Isaii AI Technologies  
-**Assessment Date**: August 2025  
-**Completion Status**: All three tasks implemented
 
-*Built with ❤️ using React, TypeScript, and modern web technologies*
+
+
+*Built with  React, TypeScript, and modern web technologies*
